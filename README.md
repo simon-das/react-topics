@@ -1,6 +1,6 @@
 # React Topics
 
-1.Axios
+1. Axios
 2. Lazy loading
 3. Error Boundaries
 4. Advanced Hooks & Custom hooks

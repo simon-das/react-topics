@@ -1,23 +1,22 @@
 # React Topics
 
-1. Axios
-2. Lazy loading
-3. Error Boundaries
-4. Advanced Hooks & Custom hooks
-5. React Memo
-6. Big lists - Rendering big list in efficient way
-7. React Patterns
-8. Refs
-9. Fragments
-10. Static Type Checking
-11 .State lifting
-12. Controlled vs Uncontrolled inputs
-13. Code-splitting
-14. Using TypeScript
-15. Redux Alternatives
-16. Redux toolkit
-17. Portals
-18. React router
-19. Web socket
-20. Internationalization (i18n)
-
+1. [Axios](https://github.com/simon-das/react-topics/tree/main/Axios)
+2. [Lazy loading](https://github.com/simon-das/react-topics/tree/main/lazy-loading)
+3. [Error Boundaries](https://github.com/simon-das/react-topics/tree/main/error-boundaries)
+4. [Hooks](https://github.com/simon-das/react-topics/tree/main/hooks)
+5. [React Memo](https://github.com/simon-das/react-topics/tree/main/memo)
+6. [Big lists - Rendering big list in efficient way](https://github.com/simon-das/react-topics/tree/main/rendering-large-lists)
+7. [React Patterns](https://github.com/simon-das/react-topics/tree/main/patterns)
+8. [Refs](https://github.com/simon-das/react-topics/tree/main/refs)
+9. [Fragments](https://github.com/simon-das/react-topics/tree/main/fragment)
+10. [Static Type Checking](https://github.com/simon-das/react-topics/tree/main/static-type-checking)
+11. [State lifting](https://github.com/simon-das/react-topics/tree/main/state-lifting)
+12. [Controlled Component](https://github.com/simon-das/react-topics/tree/main/controlled-component)
+13. [Uncontrolled Component](https://github.com/simon-das/react-topics/tree/main/uncontrolled-component)
+14. [Code-splitting](https://github.com/simon-das/react-topics/tree/main/code-splitting)
+15. [Redux Alternatives](https://github.com/simon-das/react-topics/tree/main/redux-alternatives)
+16. [Redux toolkit](https://github.com/simon-das/react-topics/tree/main/redux-toolkit)
+17. [Portals](https://github.com/simon-das/react-topics/tree/main/portals)
+18. [React router](https://github.com/simon-das/react-topics/tree/main/react-router)
+19. [Websocket](https://github.com/simon-das/react-topics/tree/main/websocket)
+20. [Internationalization (i18n)](https://github.com/simon-das/react-topics/tree/main/internationalization%20(i18n))

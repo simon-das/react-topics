@@ -51,3 +51,8 @@ function App() {
 
 export default App;
 ```
+
+<br>
+
+## Reference
+https://legacy.reactjs.org/docs/render-props.html

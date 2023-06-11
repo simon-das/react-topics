@@ -33,3 +33,8 @@ const App = () => {
   return <MyComponentWithLogger name="John" />;
 };
 ```
+
+<br>
+
+## Reference
+https://legacy.reactjs.org/docs/higher-order-components.html

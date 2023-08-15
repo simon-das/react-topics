@@ -11,7 +11,7 @@
 9. [Fragments](https://github.com/simon-das/react-topics/tree/main/fragment)
 10. [Static Type Checking](https://github.com/simon-das/react-topics/tree/main/static-type-checking)
 11. [State lifting](https://github.com/simon-das/react-topics/tree/main/state-lifting)
-12. [Controlled Component](https://github.com/simon-das/react-topics/tree/main/controlled-component)
+12. [Controlled Input](https://github.com/simon-das/react-topics/tree/main/controlled-input)
 13. [Uncontrolled Component](https://github.com/simon-das/react-topics/tree/main/uncontrolled-component)
 14. [Code-splitting](https://github.com/simon-das/react-topics/tree/main/code-splitting)
 15. [Redux Alternatives](https://github.com/simon-das/react-topics/tree/main/redux-alternatives)

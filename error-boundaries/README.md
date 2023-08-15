@@ -1,4 +1,4 @@
-# Introduction
+# Error Boundaries
 The default behavior of React is to remove the UI from the screen if an error occurs during rendering. To prevent this, a part of the UI can be wrapped in an error boundary. An error boundary is a special component that allows displaying fallback UI instead of the crashed part, such as an error message.
 
 To implement an error boundary component, the static method `getDerivedStateFromError` needs to be provided, which enables updating the state in response to an error and displaying an error message to the user. 

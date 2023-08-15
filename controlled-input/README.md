@@ -1,4 +1,4 @@
-# Controlled Input
+# Controlled Component
 A controlled component in React is a component where the state is managed by React itself. The component receives its current value and any updates to that value via props. It doesn't have its own internal state that it 
 manages. The parent component has full control over the value and behavior of the controlled component.
 
